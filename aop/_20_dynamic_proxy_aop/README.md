@@ -4,4 +4,4 @@
 
 
 
-https://openhome.cc/Gossip/SpringGossip/FromProxyToAOP.html
+https://openhome.cc/Gossip/SpringGossip/DynamicProxy.html
