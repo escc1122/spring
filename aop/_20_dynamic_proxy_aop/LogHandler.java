@@ -2,6 +2,9 @@ package _20_dynamic_proxy_aop;
 
 import java.lang.reflect.*;
 
+/**
+ * java 內建動態代理 該物件需要繼承介面
+ */
 public class LogHandler implements InvocationHandler {
 
     private Object delegate;
